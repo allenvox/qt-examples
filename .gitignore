@@ -6,3 +6,9 @@ build
 
 # User-dependent files
 *user
+
+# JetBrains
+.idea
+
+# CMake
+cmake-build-debug
